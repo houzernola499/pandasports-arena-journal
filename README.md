@@ -1,2 +1,14 @@
 # pandasports-arena-journal
-HTML page archive and documentation
+
+页面内容归档仓库
+
+这里保存静态 HTML 文件，便于后续查找、访问和核对。
+
+## 内容目录
+
+- `*.html`：静态页面文件
+- `README.md`：仓库说明与维护备注
+
+## 维护说明
+
+页面内容会根据发布任务逐步追加，具体状态以提交记录为准。
